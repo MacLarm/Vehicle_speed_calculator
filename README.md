@@ -18,9 +18,9 @@ height, and gear selection.
 This program was written in rustc 1.81.0 with cargo 1.81.0.
 I used Rust's standard tools to make it, with a few modules declared at the top:
 - std::io 
-- - this let me read and write values from the terminal.
+  - this let me read and write values from the terminal.
 - std::f32::consts
-- - This let me use some math constants in 32 bit floating point numbers.
+  - This let me use some math constants in 32 bit floating point numbers.
 
 For my development enviroment I used VS Code with the following extensions:
 - Rust Analyzer
