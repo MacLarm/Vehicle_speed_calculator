@@ -1,6 +1,11 @@
+# Cargo artifacts
 /target/
 Cargo.lock
+
+# Backup files
 *.bak
+
+# Editor directories and files
 /.vscode/
 /.idea/
 /*.sublime-workspace
