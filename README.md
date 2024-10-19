@@ -11,7 +11,7 @@ I knew that doing this would make my speedometer inaccurate. I wanted to create 
 calculator that would give an accurate speed reading taking the engine RPM, tire 
 height, and gear selection. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/mhMGakxBNDM)
 
 # Development Environment
 

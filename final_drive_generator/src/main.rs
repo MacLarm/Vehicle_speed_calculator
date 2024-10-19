@@ -1,5 +1,5 @@
-use std::io::{self, Write};
-use std::f32::consts::PI;
+use std::io::{self, Write}; // Read/Write
+use std::f32::consts::PI;   // Math Constants
 
 fn main() {
     let speed = find_speed();
