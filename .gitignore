@@ -10,3 +10,4 @@ Cargo.lock
 /.idea/
 /*.sublime-workspace
 .DS_Store
+*.docx
